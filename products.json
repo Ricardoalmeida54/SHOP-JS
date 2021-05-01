@@ -1,0 +1,74 @@
+{
+	"products" : [
+		{
+			"name" : "Monitor Gamer LED Asus 27´, Full HD, HDMI/DVI-D/Display Port",
+			"price" : "2111.00",
+			"options" : [
+				{ "Estado" : "novo, usado" }
+			],
+			"image" : "https://images6.kabum.com.br/produtos/fotos/103166/monitor-gamer-led-asus-27-full-hd-hdmi-dvi-d-display-port-gsync-165-hz-0-5ms-vg278qr_1594061745_gg.jpg",
+			"description" : "Concebido para jogos rápidos e intensos, o ASUS VG278QR é um monitor para jogos Full HD de 27 com um tempo de resposta ultra-rápido de 0.5ms e uma velocidade de atualização de 165Hz que lhe permite uma jogabilidade super suave. Funções pensadas para jogadores"
+		},
+		{
+			"name" : "Notebook Acer Aspire 5 Intel Core i5-1035G1, 8GB",
+			"price" : "4420.00",
+			"options" : [
+				{ "Estado" : "Usado, Novo" },
+			
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images5.kabum.com.br/produtos/fotos/151805/notebook-acer-aspire-5-intel-core-i5-1035g1-8gb-256gb-ssd-nvidia-geforce-mx-350-15-6-full-hd-a515-55g-588g_1617213907_gg.jpg",
+			"description" : "Processador Intel Core i5 de 10ª Geração. GPU Nvidia GeForce MX 350 com 2 GB de memória GDDR5 dedicada. Tela 15.6? com resolução Full HD. Tampa com acabamento em alumínio.t"
+		},
+		{
+			"name" : "Teclado Mecânico Gamer HyperX Mars, RGB, Switch Outemu Blue, US - HX-KB3BL3-US/R4",
+			"price" : "376.35",
+			"options" : [
+				{ "Estadp" : "Usado, Novo" },
+				
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images0.kabum.com.br/produtos/fotos/92590/92590_index_gg.jpg",
+			"description" : "O Teclado Mecânico Gamer HyperX Mars é ideal para gamers que teclam diversas teclas por segundo, graças ao seu Switch Outemu Blue, é possível processar todos os movimentos, sem a chave de o usuário perder alguns deles. As movimentações rápidas no teclado proporciona ao Gamer vantagens em sua gameplay, com isso é necessário possui um teclado que atenda suas necessidades. O teclado Mecânico Mars possui retroiluminação RGB com efeitos dinâmicos, podendo ser configurado através do software Genesis"
+		},
+		{
+			"name" : "SSD Gigabyte 120GB, SATA, Leitura 500MB/s",
+			"price" : "246.94",
+			"options" : [
+				{ "Estadp" : "Usado, Novo" },
+				
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images5.kabum.com.br/produtos/fotos/100055/ssd-gigabyte-120gb-sata-leitura-500mb-s-gravacao-380mb-s-gp-gstfs31120gntd__1548940168_gg.jpg",
+			"description" : "Os SSDs da GIGABYTE possuem alta velocidade de transferência de dados e maior resistência, fornecendo MTBF * durável de 2,0 milhões de horas ou 75 TBW"
+
+			
+		},
+		{
+			"name" : "Cartucho de Tinta HP 664XL, Preto - F6V31AB",
+			"price" : "119.90",
+			"options" : [
+				{ "Estadp" : "Usado, Novo" },
+				
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images7.kabum.com.br/produtos/fotos/109807/cartucho-de-tinta-hp-664xl-preto-f6v31ab_1580120969_gg.jpg",
+			"description" : "Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos."
+
+			
+		},
+		{
+			"name" : "Impressora Brother Laser, Mono, 110V - HL-1202",
+			"price" : "800.00",
+			"options" : [
+				{ "Estadpo" : "Usado, Novo" },
+				
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images0.kabum.com.br/produtos/fotos/62140/impressora-brother-laser-monocromatica-110v-preto-hl-1202_1548771857_gg.jpg",
+			"description" : "Impressora HL-1202 com impressão de até 21 páginas por minuto, deixando as suas atividades do dia-a-dia para serem executadas com muito mais agilidade."
+
+			
+		}
+	]
+}
