@@ -24,7 +24,7 @@
 			"name" : "Teclado Mecânico Gamer HyperX Mars, RGB, Switch Outemu Blue, US - HX-KB3BL3-US/R4",
 			"price" : "376.35",
 			"options" : [
-				{ "Estadp" : "Usado, Novo" },
+				{ "Estado" : "Usado, Novo" },
 				
 			    { "OneOfAKind" : true }
 			],
@@ -35,7 +35,7 @@
 			"name" : "SSD Gigabyte 120GB, SATA, Leitura 500MB/s",
 			"price" : "246.94",
 			"options" : [
-				{ "Estadp" : "Usado, Novo" },
+				{ "Estado" : "Usado, Novo" },
 				
 			    { "OneOfAKind" : true }
 			],
@@ -61,7 +61,7 @@
 			"name" : "Impressora Brother Laser, Mono, 110V - HL-1202",
 			"price" : "800.00",
 			"options" : [
-				{ "Estadpo" : "Usado, Novo" },
+				{ "Estado" : "Usado, Novo" },
 				
 			    { "OneOfAKind" : true }
 			],

@@ -5,12 +5,12 @@ $(function() {
 	    // the cart columns documentation
 	    cartColumns: [
 	        { attr: "name" , label: "Name" },
-	        { attr: "price" , label: "Price", view: 'currency' },
+	        { attr: "price" , label: "Valor", view: 'currency' },
 	        { view: "decrement" , label: false },
 	        { attr: "quantity" , label: "Qty" },
 	        { view: "increment" , label: false },
 	        { attr: "total" , label: "SubTotal", view: 'currency' },
-	        { view: "remove" , text: "Remove" , label: false }
+	        { view: "remove" , text: "Remover" , label: false }
 	    ],
 
 	    // "div" or "table" - builds the cart as a table or collection of divs
