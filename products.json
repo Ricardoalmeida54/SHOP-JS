@@ -48,7 +48,7 @@
 			"name" : "Cartucho de Tinta HP 664XL, Preto - F6V31AB",
 			"price" : "119.90",
 			"options" : [
-				{ "Estadp" : "Usado, Novo" },
+				{ "Estado" : "Usado, Novo" },
 				
 			    { "OneOfAKind" : true }
 			],
